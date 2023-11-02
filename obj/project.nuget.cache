@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h6DpDvreDklW7GOofIFIf+YW1BNfbR4zuPzYwz7i/mRXsJsQJYJD9vH+oDV0Ts+3X3/hl81beWDupjxa+mq6PA==",
+  "success": true,
+  "projectFilePath": "/home/lordwulfe/Projects/projects/LDP/CS-STRIKE-RENAN/TESTE3cs.csproj",
+  "expectedPackageFiles": [
+    "/home/lordwulfe/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.23/microsoft.aspnetcore.app.ref.6.0.23.nupkg.sha512"
+  ],
+  "logs": []
+}
